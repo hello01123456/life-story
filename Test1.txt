@@ -5,3 +5,4 @@ I have completed my bachelor.
 I have completed my MSc
 this is my info.
 Logo alignment is centered
+Issue reopen solved
